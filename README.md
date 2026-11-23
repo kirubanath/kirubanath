@@ -1,8 +1,8 @@
-<img src="assets/hero.svg" alt="Kirubananth Sankar. I build AI agents you can leave alone. Research to production." width="100%">
+<img src="assets/hero.svg" alt="Kirubananth Sankar. I build AI systems that work when nobody is watching. Research to production." width="100%">
 
-I build LLM agent systems. I spent three years in research at Fractal Analytics on multi-agent systems that work on a problem for 24 hours with nobody steering; one of them ranked first on OpenAI's MLE-Bench when we submitted it. Then at Mirian AI I took an agent system to paying customers in eight weeks, as the only engineer on it.
+I build AI systems that keep working when nobody is watching. I spent three years in research at Fractal Analytics on multi-agent systems that work on a problem for 24 hours with nobody steering; one of them ranked first on OpenAI's MLE-Bench when we submitted it. Then at Mirian AI I took an AI system to paying customers in eight weeks, as the only engineer on it.
 
-<img src="assets/numbers.svg" alt="Three years building LLM agent systems. Twenty-four hours in one run with nobody steering. First on OpenAI's MLE-Bench at submission. Eight weeks from joining to paying customers." width="100%">
+<img src="assets/numbers.svg" alt="Three years building AI systems. Twenty-four hours in one run with nobody steering. First on OpenAI's MLE-Bench at submission. Eight weeks from joining to paying customers." width="100%">
 
 ## Work
 
