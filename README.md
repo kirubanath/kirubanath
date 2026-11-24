@@ -7,7 +7,7 @@ I build AI systems that keep working when nobody is watching. I spent three year
 ## Work
 
 <p>
-  <img src="img/work-pievolve-v6.svg" alt="PiEvolve. Fractal Analytics. A multi-agent system built for runs of about 24 hours on its own. First on OpenAI's MLE-Bench at submission. A manuscript." width="49%">
+  <a href="https://fractal.ai/ai-research/pievolve"><img src="img/work-pievolve-v7.svg" alt="PiEvolve. Fractal Analytics. A multi-agent system built for runs of about 24 hours on its own. First on OpenAI's MLE-Bench at submission. Later named Most Innovative AI Product of the Year at the ET AI product awards. See it at Fractal." width="49%"></a>
   <a href="https://proceedings.mlr.press/v293/chopde25a.html"><img src="img/work-piml-v6.svg" alt="PiML. Fractal Analytics, AutoML 2025. A multi-agent LLM system that does machine learning from start to finish. Read the paper." width="49%"></a>
 </p>
 <p>
