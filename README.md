@@ -1,8 +1,8 @@
 <img src="img/hero-v6.svg" alt="Kirubananth Sankar, AI engineer, Hyderabad. I build AI systems that work when nobody is watching." width="100%">
 
-I build AI systems that keep working when nobody is watching. I spent three years in research at Fractal Analytics on multi-agent systems that work on a problem for 24 hours straight; one of them ranked first on OpenAI's MLE-Bench when we submitted it. Then at Mirian AI I took an AI system to paying customers in eight weeks, as the only engineer on it.
+I build AI systems that keep working when nobody is watching. I spent three years in research at Fractal Analytics on multi-agent systems that work on a problem for 24 hours straight; one of them ranked first on OpenAI's MLE-Bench when we submitted it. Then at Mirian AI I took an AI system live with its first client in eight weeks, as the only engineer on it.
 
-<img src="img/numbers-v6.svg" alt="Three years building AI systems. Twenty-four hours in one run, unattended. First on OpenAI's MLE-Bench at submission. Eight weeks from joining to paying customers." width="100%">
+<img src="img/numbers-v7.svg" alt="Three years building AI systems. Twenty-four hours in one run, unattended. First on OpenAI's MLE-Bench at submission. Eight weeks from joining to a live client." width="100%">
 
 ## Work
 
@@ -11,7 +11,7 @@ I build AI systems that keep working when nobody is watching. I spent three year
   <a href="https://proceedings.mlr.press/v293/chopde25a.html"><img src="img/work-piml-v6.svg" alt="PiML. Fractal Analytics, AutoML 2025. A multi-agent LLM system that does machine learning from start to finish. Read the paper." width="49%"></a>
 </p>
 <p>
-  <img src="img/work-production-v6.svg" alt="An agent system, live. Mirian AI, 2026, Founding AI Engineer. An agentic AI system for accounts receivable, live with paying customers within eight weeks. I was the only engineer on it." width="49%">
+  <img src="img/work-production-v7.svg" alt="An agent system, live. Mirian AI, 2026, Founding AI Engineer. An agentic AI system for accounts receivable, live with its first client within eight weeks. I was the only engineer on it." width="49%">
   <a href="https://github.com/kirubanath/Pommy-public"><img src="img/work-pommy-v6.svg" alt="Pommy. A focus timer for the Mac, narrated by a tomato with opinions. Open the repository." width="49%"></a>
 </p>
 <p>
